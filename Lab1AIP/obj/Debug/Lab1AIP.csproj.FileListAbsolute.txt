@@ -1,0 +1,10 @@
+C:\Users\Я\source\repos\Lab1AIP\Lab1AIP\bin\Debug\Lab1AIP.exe.config
+C:\Users\Я\source\repos\Lab1AIP\Lab1AIP\bin\Debug\Lab1AIP.exe
+C:\Users\Я\source\repos\Lab1AIP\Lab1AIP\bin\Debug\Lab1AIP.pdb
+C:\Users\Я\source\repos\Lab1AIP\Lab1AIP\obj\Debug\Lab1AIP.csproj.AssemblyReference.cache
+C:\Users\Я\source\repos\Lab1AIP\Lab1AIP\obj\Debug\Lab1AIP.Form1.resources
+C:\Users\Я\source\repos\Lab1AIP\Lab1AIP\obj\Debug\Lab1AIP.Properties.Resources.resources
+C:\Users\Я\source\repos\Lab1AIP\Lab1AIP\obj\Debug\Lab1AIP.csproj.GenerateResource.cache
+C:\Users\Я\source\repos\Lab1AIP\Lab1AIP\obj\Debug\Lab1AIP.csproj.CoreCompileInputs.cache
+C:\Users\Я\source\repos\Lab1AIP\Lab1AIP\obj\Debug\Lab1AIP.exe
+C:\Users\Я\source\repos\Lab1AIP\Lab1AIP\obj\Debug\Lab1AIP.pdb
